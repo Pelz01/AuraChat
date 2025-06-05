@@ -1,7 +1,5 @@
 # AuraChat
 
-![AuraChat](/app/opengraph-image.png)
-
 An AI-powered conversation coaching tool that helps you navigate social interactions with confidence, authenticity, and strategic thinking.
 
 ## ✨ What is AuraChat?
