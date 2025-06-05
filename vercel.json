@@ -1,10 +1,4 @@
 {
-    "crons": [
-        {
-            "path": "/api/clean_images",
-            "schedule": "0 * * * *"
-        }
-    ],
     "regions": [
         "iad1",
         "sfo1",

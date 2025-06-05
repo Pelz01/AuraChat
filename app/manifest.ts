@@ -2,9 +2,9 @@ import type { MetadataRoute } from 'next'
  
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "Scira - AI-powered Search Engine",
-    short_name: "Scira",
-    description: "A minimalistic AI-powered search engine that helps you find information on the internet using advanced AI models like GPT-4, Claude, and Grok",
+    name: "AuraChat - AI Conversation Coach",
+    short_name: "AuraChat",
+    description: "An AI-powered conversation coaching tool that helps you navigate social interactions with confidence, authenticity, and strategic thinking",
     start_url: "/",
     display: "standalone",
     categories: ["search", "ai", "productivity"],

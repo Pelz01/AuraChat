@@ -11,7 +11,7 @@ import "./globals.css";
 import { Providers } from './providers';
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://scira.ai"),
+  metadataBase: new URL("https://aurachat.app"),
   title: {
     default: "AuraChat - AI Conversation Coach",
     template: "%s | AuraChat",
